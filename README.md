@@ -1,3 +1,3 @@
 # Repository1
 First repository ever
-Thats Cool
+Thats Cool to be able to automaite things
